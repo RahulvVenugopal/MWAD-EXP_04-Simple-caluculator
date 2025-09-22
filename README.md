@@ -1,5 +1,5 @@
 # MWAD-EXP_04-Simple-caluculator
-## Date:
+## Date:21/09/25
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
