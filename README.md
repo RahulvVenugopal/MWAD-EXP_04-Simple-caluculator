@@ -1,5 +1,7 @@
 # MWAD-EXP_04-Simple-caluculator
 ## Date:21/09/25
+### Name: Rahul V
+### Register No:212223040163
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
