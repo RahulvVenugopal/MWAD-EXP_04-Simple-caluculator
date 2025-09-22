@@ -1,4 +1,4 @@
-# MWAD-EXP_04-Simple-caluculator
+# MWAD-EXP_04-Simple-calculator
 ## Date:21/09/25
 ### Name: Rahul V
 ### Register No:212223040163
